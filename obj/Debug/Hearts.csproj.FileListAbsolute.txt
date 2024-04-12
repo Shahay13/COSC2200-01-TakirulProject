@@ -1,0 +1,12 @@
+C:\Users\shaht\source\repos\Hearts\bin\Debug\Hearts.exe.config
+C:\Users\shaht\source\repos\Hearts\bin\Debug\Hearts.exe
+C:\Users\shaht\source\repos\Hearts\bin\Debug\Hearts.pdb
+C:\Users\shaht\source\repos\Hearts\obj\Debug\Hearts.csproj.AssemblyReference.cache
+C:\Users\shaht\source\repos\Hearts\obj\Debug\Hearts.Form1.resources
+C:\Users\shaht\source\repos\Hearts\obj\Debug\Hearts.Properties.Resources.resources
+C:\Users\shaht\source\repos\Hearts\obj\Debug\Hearts.csproj.GenerateResource.cache
+C:\Users\shaht\source\repos\Hearts\obj\Debug\Hearts.csproj.CoreCompileInputs.cache
+C:\Users\shaht\source\repos\Hearts\obj\Debug\Hearts.exe
+C:\Users\shaht\source\repos\Hearts\obj\Debug\Hearts.pdb
+C:\Users\shaht\source\repos\Hearts\obj\Debug\Hearts.Form2.resources
+C:\Users\shaht\source\repos\Hearts\obj\Debug\Hearts.Form3.resources
